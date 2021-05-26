@@ -4,10 +4,13 @@ layout: ling
 ---
 
 <h2> Linguistics </h2>
-<p>Within linguistics, my main interests lies in semantics, pragmatics and the prosody-meaning interface.
+<p>Linguistics is the scientific study of language. I am mainly interested in the structure of language and how we can formally model some small pieces of the complex linguistic system. As a researcher I mostly worked on the question of how meaning arises (semantics) and how we use language to communicate (pragmatics).
 <br>
 <br>
-My dissertation is about form-to-meaning mapping in alternative questions and is written within the dfg funded project Questions at the Interfaces.
+In particular, I worked on question meaning and how this can be derived from prosody. I also worked on imperatives and the Macedonian Q-particle <i>li</i>. 
+<br>
+<br>
+My dissertation (that I will hopefully soon defend) is about form-to-meaning mapping in alternative questions and is written within the dfg funded project <a class = "cleanlink" href="https://typo.uni-konstanz.de/questionsInterfaces/">Questions at the Interfaces</a>.
 </p>
 
 <h2> Publications </h2>

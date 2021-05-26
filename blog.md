@@ -1,6 +1,6 @@
 ---
 title: blog
-layout: default
+layout: ling
 ---
 
-blablabla
+As soon as something interesting happens in my brain, I will write about it here. 

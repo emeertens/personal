@@ -92,6 +92,14 @@ nav a.active {
     align-content: dense;
 }
 
+.containercv{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-content: space-around;
+	column-gap: 130px;
+}
+
 img {
     display: block;
     margin: 0;
@@ -123,6 +131,11 @@ h3{
 p{
     font-family: Inconsolata, monospace;
 }
+
+a{
+	text-decoration: none;
+}
+
 
 .container > div{  display: flex;
     justify-content: center;
@@ -176,6 +189,54 @@ li {
 .fa:hover {
     opacity: 0.7;
 }
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+.contributeButton{
+	padding: 20px 20px 20px 20px;
+    border: 2px solid black;
+    height: min-content;
+    width: min-content;
+	background-color: rgb(237, 248, 245);
+	text-align: center;
+	margin-top: 100px;	
+}
+
+.contributeLink{
+	font-family: Raleway, Helvetica, sans-serif;
+    font-size: 2em;
+    color: rgb(20, 20, 20);
+    font-weight:500;	       
+}
+
+.contributeLink:hover{
+	background-color: rgb(237, 248, 245);
+	color: rgb(64, 128, 128);
+}
+
+.cleanlink:link {
+    text-decoration:underline;
+    color: rgb(20, 20, 20);
+  }
+  
+.cleanlink:visited {
+    color: rgb(20, 20, 20);
+  }
+  
+.cleanlink:hover {
+    color: hotpink;
+  }
+  
+.cleanlink:active {
+    color: hotpink;
+  }
 
 
 
