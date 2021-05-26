@@ -51,6 +51,8 @@ layout: ling
         <br> 
         What is there to hear, anyway?<br>
         The clatter of paper shredders.<br>
+        <br>
+        Wisława Szymorska
         </p>
     </div>
 </main>
