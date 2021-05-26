@@ -3,16 +3,13 @@ title: linguistics
 layout: ling
 ---
 
-<div>
 <h2> Linguistics </h2>
 <p>Within linguistics, my main interests lies in semantics, pragmatics and the prosody-meaning interface.
 <br>
 <br>
 My dissertation is about form-to-meaning mapping in alternative questions and is written within the dfg funded project Questions at the Interfaces.
 </p>
-</div>
 
-<div>
 <h2> Publications </h2>
 <h3> Dissertation </h3>
 <ul class="pubs">
@@ -29,9 +26,7 @@ My dissertation is about form-to-meaning mapping in alternative questions and is
 <li>Meertens, Erlinde. (2019).  Prosody in Disjunctive Questions: Introducing Class. University of Pennsylvania Working Papers in Linguistics, 25(1), 21.</li>
 <li>Beltrama, Andrea, Meertens, Erlinde, & Romero, Maribel. (2018). Decomposing cornering effects in alternative questions: An Experimental Investigation. In Uli Sauerland and Stephanie Solt (eds.) Proceedings of Sinn und Bedeutung 22.</li>
 </ul>
-</div>
 
-<div>
 <h2> Talks </h2>
 <h3> Invited talks </h3>
 <ul class = "pubs">
@@ -47,4 +42,4 @@ My dissertation is about form-to-meaning mapping in alternative questions and is
 <li>Meertens, E. (2016). Scalar Implicatures for Modified Numerals. Talk presented at the De Grote Taaldag. Utrecht, the Netherlands, February 6th.</li>
 <li>Landsbergen, F., Wouden, T. van der, Engeland, J. van, Meertens, E. & Wijsman, S. (2015). Enriching a grammatical database with intelligent links to linguistic resources, demo & poster at the CLARIN 2015 Conference, Wroclaw, Poland, 16 October.</li>
 </ul>
-</div>
+

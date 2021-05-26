@@ -8,10 +8,11 @@ html{
 
 body {
     width: 100%;
-    margin: 0 auto;
+    margin: 25px;
     background-color: #baddd3;
     padding: 0 0 0 0;
-    border: 1px solid black;
+   /* border: 1px solid black;
+    border-bottom-style: none;*/
 }
 
 .header{
@@ -77,9 +78,18 @@ nav a.active {
 
 .containerhead {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: [first] 40px [col2-start] 500px [col3-start] 600px [end];
     grid-auto-rows: minmax(100px, auto);
     gap: 20px;
+    padding: 20px 20px 20px 20px;
+    align-items: center;
+}
+
+.containerbuttons{
+    display:grid;
+    grid-template-rows: 40px 40px;
+    grid-auto-columns: minmax(100px,auto);
+    align-content: dense;
 }
 
 img {
@@ -150,6 +160,21 @@ ul.pubs {
 li {
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+.fa{
+    padding: 20px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    background: #baddd3;
+    border-radius: 50%;
+    color: rgb(20, 20, 20);
+}
+
+.fa:hover {
+    opacity: 0.7;
 }
 
 
