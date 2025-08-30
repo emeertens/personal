@@ -4,14 +4,16 @@ layout: home
 ---
 
 <div>
-<p>Hi!<br> <br> I recently started a journey to become a java developer at Accenture Germany.
+<p>Hi!<br> <br> Hi there! I professionally talk to cows at the KNAW - Humanities Cluster (Meertens Institute / NL-Lab)  
 <br> <br>
-Previously, I worked as a researcher in linguistics at the university of Konstanz.
+When I'm not working, I play the violin poorly, draw aliens, hike or bike through nature, write stories, watch pro cycling or spend too much time on the internet.
+<br> <br>
+Currently on maternity leave till January 2026. Forgive me for not responding to your emails - it's not personal!
 <br> <br>
 <br> <br>
 email:
 <br> <br>
-erlindemeertens at protonmail dot com</p>
+erlinde dot meertens at huc dot knaw dot nl</p>
 </div>
 
 <div>
