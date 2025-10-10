@@ -4,7 +4,7 @@ layout: home
 ---
 
 <div>
-<p>Hi!<br> <br> Hi there! I professionally talk to cows at the  <a href="https://huc.knaw.nl/" style="color: green;" target="_blank">KNAW - Humanities Cluster</a> (<a href="https://meertens.knaw.nl/en/" style="color: green;" target="_blank">Meertens Institute</a> / NL-Lab)  
+<p>Hi!<br> <br> I professionally talk to cows at the  <a href="https://huc.knaw.nl/" style="color: green;" target="_blank">KNAW - Humanities Cluster</a> (<a href="https://meertens.knaw.nl/en/" style="color: green;" target="_blank">Meertens Institute</a> / NL-Lab)  
 
 
 <br> <br>

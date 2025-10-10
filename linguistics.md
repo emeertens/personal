@@ -10,7 +10,7 @@ layout: ling
 As a researcher, I mostly worked on the question of how meaning arises (semantics) and how we use language to communicate (pragmatics). In particular, I conducted research on question meaning and how this can be derived from prosody. I also have work on imperatives and the Macedonian Q-particle <i>li</i>. 
 <br>
 <br>
-My dissertation (that I will hopefully soon defend) is about form-to-meaning mapping in alternative questions and is written within the dfg funded project <a class = "cleanlink" href="https://typo.uni-konstanz.de/questionsInterfaces/">Questions at the Interfaces</a>.
+My dissertation is about form-to-meaning mapping in alternative questions and is written within the dfg funded project <a class = "cleanlink" href="https://typo.uni-konstanz.de/questionsInterfaces/">Questions at the Interfaces</a>.
 </p>
 
 <h2> Publications </h2>
