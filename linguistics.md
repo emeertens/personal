@@ -4,13 +4,16 @@ layout: ling
 ---
 
 <h2> Linguistics </h2>
-<p>Linguistics is the scientific study of language. I am mainly interested in the structure of language and how we can formally model some small pieces of the complex linguistic system. 
+<p>Linguistics is the scientific study of language. I am interested in formal models of language and meaning and whether they can be applied to understand the interactions of non-human animals. 
 <br>
 <br>
-As a researcher, I mostly worked on the question of how meaning arises (semantics) and how we use language to communicate (pragmatics). In particular, I conducted research on question meaning and how this can be derived from prosody. I also have work on imperatives and the Macedonian Q-particle <i>li</i>. 
+During my PhD, I mostly worked on the question of how meaning arises (semantics) and how we use language to communicate (pragmatics). In particular, I conducted research on question meaning and how this can be derived from prosody. I also have work on imperatives and the Macedonian Q-particle <i>li</i>. 
 <br>
 <br>
 My dissertation is about form-to-meaning mapping in alternative questions and is written within the dfg funded project <a class = "cleanlink" href="https://typo.uni-konstanz.de/questionsInterfaces/">Questions at the Interfaces</a>.
+<br>
+<br>
+Currently, I am discovering my inner anthropologist and conduct fieldwork at farms and petting zoos to better understand how cows interact with each other and with humans. Based on this work, I explore whether models of speech acts and compositionality can be applied to these interactions.
 </p>
 
 <h2> Publications </h2>
@@ -33,7 +36,7 @@ My dissertation is about form-to-meaning mapping in alternative questions and is
 <h2> Talks </h2>
 <h3> Invited talks </h3>
 <ul class = "pubs">
-<li>Meertens, Erlinde. (upcoming). The Role of Prosody in Alternative Question Composition. Department of Linguistics, University of Cologne. Winter Semester 2020/2021.</li>
+<li>Meertens, Erlinde. (2025). Non-human animal pragmatics: The case of dairy cows. Leibnitz University, Hannover. July 1st.</li>
 <li>Meertens, Erlinde. (2018). Plateau Rise in Disjunctive Questions. ILLC Inquisitive Semantics seminar, University of Amsterdam. November 23rd. </li>
 <li>Meertens, Erlinde. (2018). Q-Particles in Alternative Questions. Department of Linguistics, University of Vienna . March 19th.</li>
 </ul>
@@ -45,4 +48,5 @@ My dissertation is about form-to-meaning mapping in alternative questions and is
 <li>Meertens, E. (2016). Scalar Implicatures for Modified Numerals. Talk presented at the De Grote Taaldag. Utrecht, the Netherlands, February 6th.</li>
 <li>Landsbergen, F., Wouden, T. van der, Engeland, J. van, Meertens, E. & Wijsman, S. (2015). Enriching a grammatical database with intelligent links to linguistic resources, demo & poster at the CLARIN 2015 Conference, Wroclaw, Poland, 16 October.</li>
 </ul>
+
 
