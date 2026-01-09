@@ -8,10 +8,7 @@ layout: home
 
 
 <br> <br>
-When I'm not working, I play the violin poorly, draw aliens, hike or bike through nature, write stories, watch pro cycling or spend too much time on the internet.
-<br> <br>
-Currently on maternity leave till January 2026. Forgive me for not responding to your emails - it's not personal!
-<br> <br>
+When I'm not working, I play the violin poorly, draw aliens, hike or bike through nature, write stories, watch pro cycling or hang out with my baby.
 <br> <br>
 email:
 <br> <br>
