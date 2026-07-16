@@ -30,22 +30,22 @@ At the moment, I am also reflecting on how my work on non-human animals, and par
 <h2> Talks </h2>
 <h3> Invited talks </h3>
 <ul class = "pubs">
-<li>Meertens, Erlinde. (2025). Non-human animal pragmatics: The case of dairy cows. Leibniz University, Hannover. July 1st.</li>
-<li>Meertens, Erlinde. (2018). Plateau Rise in Disjunctive Questions. ILLC Inquisitive Semantics seminar, University of Amsterdam. November 23rd. </li>
-<li>Meertens, Erlinde. (2018). Q-Particles in Alternative Questions. Department of Linguistics, University of Vienna . March 19th.</li>
+<li>Non-human animal pragmatics: The case of dairy cows. Leibniz University, Hannover. July 1st 2025.</li>
+<li>Plateau Rise in Disjunctive Questions. ILLC Inquisitive Semantics seminar, University of Amsterdam. November 23rd 2018. </li>
+<li>Q-Particles in Alternative Questions. Department of Linguistics, University of Vienna . March 19th 2018.</li>
 </ul>
 <h3> Workshops & Conferences</h3>
 <ul class = "pubs">
-<li>What non-human animals do with language: analyzing dairy cow interactions as speech-acts. (2026)
+<li>Meertens, Erlinde (2026). What non-human animals do with language: analyzing dairy cow interactions as speech-acts.
 Pragmasophia. University of Messina, May 11-14.
-<li>Towards a better analysis. (with Felix Frühauf) (2026) 
+<li>Frühauf, Felix & Meertens, Erlinde. (2026). Towards a better analysis.
 A Germanic Sandwich 10. Freie Universität Berlin, May 7-8.
-<li>Silent Questions (2026). 
+<li>Meertens, Erlinde. (2026). Silent Questions.
 Polar Questions Across Languages. University of Göttingen, April 29-30.
-<li>Jordanoska, Izabela & Meertens, Erlinde. (2020). Focus marking strategies in polar questions in Macedonian. Talk presented at Workshop Focus Alternatives: Theoretical and empirical perspectives, Humboldt Universität Berlin, February, 27-28.</li>
-<li>Jordanoska, Izabela & Meertens, Erlinde. (2018). The Interpretive Contribution of li in Macedonian. Talk presented at Balkan Languages and Dialects: Corpus-Based and Quantitative Studies. St. Petersburg. October 18-20.</li>
-<li>Meertens, Erlinde & Lauer, Sven. (2018). Crosslinguistic variation in a minor sentence type: Melioratives in Dutch and German. Talk presented at Workshop on Non Canonical Imperatives, Humboldt Universität Berlin, May 25 - 26</li>
-<li>Meertens, E. (2016). Scalar Implicatures for Modified Numerals. Talk presented at the De Grote Taaldag. Utrecht, the Netherlands, February 6th.</li>
+<li>Jordanoska, Izabela & Meertens, Erlinde. (2020). Focus marking strategies in polar questions in Macedonian. Workshop Focus Alternatives: Theoretical and empirical perspectives, Humboldt Universität Berlin, February, 27-28.</li>
+<li>Jordanoska, Izabela & Meertens, Erlinde. (2018). The Interpretive Contribution of li in Macedonian. Balkan Languages and Dialects: Corpus-Based and Quantitative Studies. St. Petersburg. October 18-20.</li>
+<li>Meertens, Erlinde & Lauer, Sven. (2018). Crosslinguistic variation in a minor sentence type: Melioratives in Dutch and German. Workshop on Non Canonical Imperatives, Humboldt Universität Berlin, May 25 - 26</li>
+<li>Meertens, E. (2016). Scalar Implicatures for Modified Numerals.  De Grote Taaldag. Utrecht, the Netherlands, February 6th.</li>
 <li>Landsbergen, F., Wouden, T. van der, Engeland, J. van, Meertens, E. & Wijsman, S. (2015). Enriching a grammatical database with intelligent links to linguistic resources, demo & poster at the CLARIN 2015 Conference, Wroclaw, Poland, 16 October.</li>
 </ul>
 
