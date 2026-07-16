@@ -44,7 +44,5 @@ A Germanic Sandwich 10. Freie Universität Berlin, May 7-8.
 Polar Questions Across Languages. University of Göttingen, April 29-30.
 <li>Jordanoska, Izabela & Meertens, Erlinde. (2020). Focus marking strategies in polar questions in Macedonian. Workshop Focus Alternatives: Theoretical and empirical perspectives, Humboldt Universität Berlin, February, 27-28.</li>
 <li>Meertens, Erlinde & Lauer, Sven. (2018). Crosslinguistic variation in a minor sentence type: Melioratives in Dutch and German. Workshop on Non Canonical Imperatives, Humboldt Universität Berlin, May 25 - 26</li>
-<li>Meertens, E. (2016). Scalar Implicatures for Modified Numerals.  De Grote Taaldag. Utrecht, the Netherlands, February 6th.</li>
-</ul>
 
 
